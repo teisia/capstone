@@ -1,0 +1,8 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "ROOT_URL": "http://plantogether.meteorapp.com",
+       "MONGO_URL": "mongodb://capstoneAdmin:11<>radiant@ds015700.mlab.com:15700/capstone_mongodb"
+     }
+   }
+}

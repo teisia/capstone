@@ -1,0 +1,17 @@
+{
+  "name": "capstone",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "deploy": "meteor deploy plantogether.meteorapp.com --settings settings.json"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
